@@ -1,7 +1,7 @@
-# Online MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 13 Aralık 2025
+# Online MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 14 Şubat 2026
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
-+ Kurs __13 Aralık 2025 Cumartesi__ günü başlayacaktır.
++ Kurs __14 Şubat 2026 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır. Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __140__ saattir.
