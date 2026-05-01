@@ -20,7 +20,7 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi __140__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri __09:30 - 13:30__ saatleri arasında yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri __09:30 - 12:30__ saatleri arasında yapılacaktır.
 
 ## Eğitim İçeriği
 [__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-1-Kasim-2025/blob/main/kurs_icerigi.md)
