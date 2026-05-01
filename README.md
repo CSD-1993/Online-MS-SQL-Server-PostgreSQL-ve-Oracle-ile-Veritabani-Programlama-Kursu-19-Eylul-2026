@@ -1,11 +1,11 @@
-# Online MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 2 Mayıs 2026
+# Online MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama Kursu 11 Temmuz 2026
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
-+ Kurs __2 Mayıs 2026 Cumartesi__ günü başlayacaktır.
++ Kurs __11 Temmuz 2026 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır. Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __140__ saattir.
-+ Dersler __Cumartesi ve Pazar__ günleri __09:30 - 13:30__ saatleri arasında (haftada 8 saat) yapılacaktır.
++ Dersler __Cumartesi ve Pazar__ günleri __09:30 - 12:30__ saatleri arasında (haftada 8 saat) yapılacaktır.
 + Kursumuzun toplam ücreti KDV dahil __35.000__ TL’dir (Peşin ödemede __30.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __31.000__ TL’dir (Peşin ödemede __27.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
